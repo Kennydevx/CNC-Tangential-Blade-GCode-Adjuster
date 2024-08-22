@@ -29,7 +29,6 @@ Follow these steps to install and start using the Tangential GCode Adjuster:
    ```
    git clone https://github.com/Kennydevx/GCode-Adjuster-Tangential.git
    cd GCode-Adjuster-Tangential
-   pip install -r requirements.txt
    python3 main.py
 
 🛠️ Usage
@@ -88,7 +87,6 @@ Siga estes passos para instalar e usar o Ajustador de GCode Tangencial:
    ```bash
    git clone https://github.com/Kennydevx/GCode-Adjuster-Tangential.git
    cd GCode-Adjuster-Tangential
-   pip install -r requirements.txt
    python3 main.py
    
 🛠️ Uso
