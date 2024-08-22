@@ -1,5 +1,3 @@
-adjuster GCode for Tangencial Blade
-
 
 
 **Tangential GCode Adjuster** is an advanced tool for optimizing GCode for precise control of tangential blades on CNC machines. Perfect for cutting materials like paper, vinyl, and leather, this tool adjusts standard GCode (XYZ) to include A-axis control, enabling accurate and complex cuts with tangential blades.
