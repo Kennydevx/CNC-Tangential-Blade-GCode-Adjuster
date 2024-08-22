@@ -1,4 +1,4 @@
-# ![Logo do Projeto](https://via.placeholder.com/150x50?text=Logo) adjuster GCode for Tangencial Blade
+adjuster GCode for Tangencial Blade
 
 
 
