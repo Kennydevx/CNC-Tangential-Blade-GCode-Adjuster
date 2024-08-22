@@ -1,4 +1,4 @@
-# ![Logo do Projeto](https://via.placeholder.com/150x50?text=Logo) Ajustador de GCode Tangencial
+# ![Logo do Projeto](https://via.placeholder.com/150x50?text=Logo) adjuster GCode for Tangencial Blade
 
 
 
@@ -61,7 +61,7 @@ For questions or support, contact Kennedy Guimarães.
 
 
    
-**Ajustador de GCode Tangencial** é uma ferramenta avançada para otimizar códigos G (GCode) para o controle preciso de lâminas tangenciais em máquinas CNC. Ideal para cortar materiais como papel, vinil e couro, esta ferramenta ajusta códigos G padrão (XYZ) para incluir o controle do eixo A, permitindo cortes precisos e complexos com lâminas tangenciais.
+**Ajustador de GCode para Tangencial blade** é uma ferramenta avançada para otimizar códigos G (GCode) para o controle preciso de lâminas tangenciais em máquinas CNC. Ideal para cortar materiais como papel, vinil e couro, esta ferramenta ajusta códigos G padrão (XYZ) para incluir o controle do eixo A, permitindo cortes precisos e complexos com lâminas tangenciais.
 
 [![Versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0-blue)](https://github.com/Kennydevx/GCode-Adjuster-Tangential/releases)
 [![Licença](https://img.shields.io/badge/licen%C3%A7a-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
